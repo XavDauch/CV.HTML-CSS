@@ -1,9 +1,12 @@
 # CV.HTML-CSS
-Création d'un CV en HTML CSS
-S'assurer du responsaive
-Le mettre accessible aux personnes ayant un handicap
-Créer un Burger sur le format responsive
-Utiliser flex box
+Premier exercice réalisé après la première semaine de formation don 3 jours de HTML/CSS.
+Usage des support de cours et des outils IA disponnibles aujourd'hui.
+Consignes demandées :
+    Création d'un CV en HTML CSS
+    S'assurer du responsaive
+    Le mettre accessible aux personnes ayant un handicap
+    Créer un Burger sur le format responsive
+    Utiliser flex box
 
 Pour la mise aux normes pour les personnes ayant un Handicap
 
